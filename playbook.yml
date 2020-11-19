@@ -38,6 +38,5 @@
       state: latest
     with_items:
       - curl
-      - ntp
       - nginx
  
