@@ -53,3 +53,5 @@ test/fixtures/*/ssh/key*.tfstate*
 
 creds/*
 .terraform/*
+
+jenkins-sa.json
